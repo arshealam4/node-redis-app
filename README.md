@@ -10,6 +10,7 @@
 - [x] Express
 - [x] Best Practice Structure
 - [x] Async Await
+- [x] Redis
 
 ## Requirements
 
